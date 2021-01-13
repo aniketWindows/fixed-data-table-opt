@@ -1,5 +1,5 @@
 {
-  "name": "@aniketkhara/fixed-data-table-opt",
+  "name": "fixed-data-table-opt",
   "version": "0.6.5",
   "author": "sagar & aniket",
   "description": "A React table component designed to allow presenting thousands of rows of data.",
