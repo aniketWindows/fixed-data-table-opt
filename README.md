@@ -1,10 +1,9 @@
-# Project Status:  🚨 Unmaintained 🚨
+# Project Status:  🚨 Maintained 🚨
 
-This project is no longer maintained. We will not be accepting pull requests, addressing issues, nor making future releases.
+This project is maintained. We will be accepting pull requests, addressing issues, for making future releases.
 
 ## Alternatives
 
-- [react-virtualized](https://github.com/bvaughn/react-virtualized)
 - [fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2)
 
 
@@ -36,10 +35,10 @@ Things the FixedDataTable **doesn't** do:
 Getting started
 ---------------
 
-Install `fixed-data-table` using npm.
+Install `fixed-data-table-opt` using npm.
 
 ```shell
-npm install fixed-data-table
+npm install fixed-data-table-opt
 ```
 Add the default stylesheet `dist/fixed-data-table.css`, then import it into any module.
 
@@ -48,7 +47,7 @@ Add the default stylesheet `dist/fixed-data-table.css`, then import it into any 
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Table, Column, Cell} from 'fixed-data-table';
+import {Table, Column, Cell} from 'fixed-data-table-opt';
 
 // Table data as a list of array.
 const rows = [
@@ -92,19 +91,6 @@ ReactDOM.render(
 
 Contributions
 ------------
+- Aniket Khara   <aniketskhara@gmail.com>
+- Sagar Pawar     <sagarpawar2797@gmail.com>
 
-Use [GitHub issues](https://github.com/facebook/fixed-data-table/issues) for requests.
-
-We actively welcome pull requests; learn how to [contribute](https://github.com/facebook/fixed-data-table/blob/master/CONTRIBUTING.md).
-
-
-Changelog
----------
-
-Changes are tracked as [GitHub releases](https://github.com/facebook/fixed-data-table/releases).
-
-
-License
--------
-
-`FixedDataTable` is [BSD-licensed](https://github.com/facebook/fixed-data-table/blob/master/LICENSE). We also provide an additional [patent grant](https://github.com/facebook/fixed-data-table/blob/master/PATENTS).

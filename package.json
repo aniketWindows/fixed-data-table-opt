@@ -1,7 +1,7 @@
 {
   "name": "fixed-data-table-opt",
-  "version": "0.6.5",
-  "author": "sagar & aniket",
+  "version": "0.6.9",
+  "author": "sagar pawar & aniket khara",
   "description": "A React table component designed to allow presenting thousands of rows of data.",
   "main": "main.js",
   "peerDependencies": {
@@ -50,13 +50,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/fixed-data-table.git"
+    "url": "https://github.com/aniketWindows/fixed-data-table-opt"
   },
-  "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/facebook/fixed-data-table/issues"
-  },
-  "homepage": "http://facebook.github.io/fixed-data-table",
+  "homepage": "https://github.com/aniketWindows/fixed-data-table-opt",
   "tags": [
     "react",
     "table"
